@@ -10,6 +10,7 @@
 | Network            | 100 Mbps bandwidth                          |
 | Server Location    | Malaysia                                     |
 | Payment Methods    | PayPal, Credit Card, Cryptocurrency         |
+| Provider | **[Blend Hosting Mac Mini](https://www.blendhosting.com/mac-mini/)** |
 
 <br>
 
@@ -91,3 +92,5 @@ Overall, the **Mac Mini M4** performs well in terms of network stability, remote
 ### ⚠️ Considerations
 
 - Not ideal for latency-sensitive real-time workloads
+
+**[View current pricing on Blend Hosting →](https://www.blendhosting.com/mac-mini/)**
